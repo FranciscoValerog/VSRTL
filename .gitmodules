@@ -3,7 +3,7 @@
 	url = https://github.com/pbhogan/Signals
 [submodule "external/better-enums"]
 	path = external/better-enums
-	url = https://github.com/mortbopet/better-enums
+	url = https://github.com/FranciscoValerog/better-enums
 [submodule "external/cereal"]
 	path = external/cereal
 	url = https://github.com/USCiLab/cereal.git
